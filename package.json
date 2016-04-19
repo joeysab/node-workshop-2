@@ -1,0 +1,19 @@
+{
+  "name": "callback",
+  "version": "1.0.0",
+  "description": "lastChar & firstChar functions",
+  "main": "call-callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeysab/node-workshop-2.git"
+  },
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeysab/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/joeysab/node-workshop-2#readme"
+}
