@@ -1,3 +1,6 @@
+var fortune = require("./library/fortune.js");
+
+console.log(fortune.test());
 //Created function that PASSES!! NOT returns, a function.
 
 
